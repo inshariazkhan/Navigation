@@ -1,1 +1,1 @@
-# Navigation
+A Navigation bar or navigation system comes under GUI that helps the visitors in accessing information.A navigation bar is mostly displayed on the top of the page in the form of a horizontal list of links.the HTML code creates a navigation bar with a list of navigation items. The CSS code styles the navigation bar, the list, and the links within the list items. 
